@@ -44,3 +44,20 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+ . Создано с помощью: 
+Foundry ( https://getfoundry.sh/ ), ReactJS ( https://reactjs.org/ ), Web3-Onboard ( https://onboard.blocknative.com ). / )
+
+ Проверенный контракт на Taiko A1 (с исходниками) 
+https://l2explorer.a1.taiko.xyz/address/0xb5079f23b6C331C990b1152b5260D70e51e432c6 [пропущено при первоначальном написании]
+
+ Приложение V1 в IPFS (атаковано ботами)
+ https://cf-ipfs.com Приложение /ipfs/QmUCT1rmqTjXz9kSds9kHgBv66NtpkThXfg5V75mak41kn/
+
+ V2 в IPFS (требуется покупка монет перед публикацией)
+ https://cf-ipfs.com/ipfs/QmZFzcyqverG1RKAXW9P1i47zSEr81kbRuU9QHZN9kwuaG/
+-> если я когда-нибудь организую код, я обновлю репозиторий
+
+ Исходный код в репо (неортодоксально: предостережение temptor)
+ https://github.com/unnft/simple-taiko-guestbook 
+
+То же примечание, что и у Лепа: если вы собираетесь подключиться на сайт, используйте только тестовые/горелочные аккаунты и всегда читайте то, что подписываете.
